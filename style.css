@@ -10,6 +10,7 @@ th{
 border: 10px solid Red;
 }
 td{
-    border: 10px solid violet;
-    border: 20px detted aqua;
+    background: salmon;
+    border: 10px detted violet;
+    padding: 8px;
 }
