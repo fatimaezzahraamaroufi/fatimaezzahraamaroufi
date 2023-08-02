@@ -1,0 +1,13 @@
+table{
+    border-collapse: collapse;
+
+}
+Tr{
+border: 10px solid brown ;
+}
+th{
+border: 10px solid Red;
+}
+td{
+    border: 10px solid blue;
+}
