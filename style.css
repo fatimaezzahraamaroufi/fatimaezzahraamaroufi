@@ -1,5 +1,6 @@
 table{
-    border-collapse: collapse;
+    border-collapse: separate;
+    border: 20px solid yellow;
 
 }
 Tr{
@@ -7,7 +8,9 @@ border: 10px solid brown ;
 }
 th{
 border: 10px solid Red;
+border-radius: 5%;
 }
 td{
     border: 10px solid blue;
+    border: 20px dettel aqua;
 }
